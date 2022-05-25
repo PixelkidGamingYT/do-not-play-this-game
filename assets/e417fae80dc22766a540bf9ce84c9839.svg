@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="8.491762638092041" height="17.500391006469727" viewBox="0.754417896270752 0.6102515459060669 8.491762638092041 17.500391006469727">
+  <defs>
+    <linearGradient id="grad_1" y2="1" x2="0">
+      <stop offset="0" stop-color="#F4FF5E" stop-opacity="1"/>
+      <stop offset="1" stop-color="#DDFF4B" stop-opacity="1"/>
+    </linearGradient>
+  <linearGradient id="grad_1-,0,0,1,-233.95,-169.6" y2="17.6106" x2="1.2544" x1="1.2544" y1="1.1103" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#F4FF5E" stop-opacity="1"/>
+      <stop offset="1" stop-color="#DDFF4B" stop-opacity="1"/>
+    </linearGradient></defs>
+  <!-- Exported by Scratch - http://scratch.mit.edu/ -->
+  <image id="ID0.7965216441079974" width="2" height="2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAACCAYAAABytg0kAAAADklEQVR42mNhgAIWGAMAAH4ACYwGaSAAAAAtdEVYdFNvZnR3YXJlAGJ5LmJsb29kZHkuY3J5cHRvLmltYWdlLlBORzI0RW5jb2RlcqgGf+4AAAAASUVORK5CYII=" transform="matrix(0.5,0,0,0.5,5.15,9.25)" stroke-width="1" style="image-rendering: optimizespeed; image-rendering: pixelated;"/>
+  <path id="ID0.9556577848270535" fill="url(#grad_1-,0,0,1,-233.95,-169.6)" stroke="#000000" stroke-width="1" stroke-linecap="round" d="M 3.55 3.5 C 3.836 2.936 3.015 1.897 3.55 1.5 C 4.276 0.962 5.49 0.999 6.2 1.5 C 6.775 1.841 6.158 2.829 6.45 3.4 C 6.919 4.314 8.272 4.721 8.45 5.75 C 9.004 8.85 8.625 12.078 8.55 15.25 C 8.531 16.043 8.511 15.852 8.2 16.1 C 7.307 16.768 6.294 17.549 5.2 17.6 C 4.003 17.694 2.825 17.152 1.85 16.5 C 1.433 16.214 1.459 16.049 1.45 15.25 C 1.415 12.055 0.971 8.959 1.55 5.9 C 1.761 4.792 3.079 4.425 3.55 3.5 Z "/>
+  <path id="ID0.034030354116111994" fill="#1BC026" stroke="none" stroke-linecap="round" d="M 5 15.75 L 2.85 15.3 L 1.85 14.5 L 1.7 9.5 L 1.85 7 L 3.5 7.6 L 5.2 7.75 L 6.85 7.45 L 8.1 6.95 L 8.35 10.15 L 8.2 14.2 L 6.85 15.1 L 5 15.75 Z " stroke-width="1"/>
+  <path id="ID0.46926782093942165" fill="#82FF49" stroke="none" stroke-linecap="round" d="M 4.9 10.5 L 5.15 10.5 L 5.15 10.75 L 4.9 10.75 L 4.9 10.5 Z " stroke-width="0.02500000037252903"/>
+  <path id="ID0.7368020676076412" fill="#EBFF56" stroke="none" d="M 4.35 8.85 L 5.7 8.85 L 5.7 13.7 L 4.35 13.7 L 4.35 8.85 Z " stroke-width="1"/>
+  <path id="ID0.795881062746048" fill="#EBFF56" stroke="none" d="M 2.55 10.6 L 7.4 10.6 L 7.4 11.8 L 2.55 11.8 L 2.55 10.6 Z " stroke-width="1"/>
+</svg>
